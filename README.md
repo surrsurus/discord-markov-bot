@@ -5,7 +5,7 @@ A Discord bot in Python 3 that forms Markov Chains from what it reads
 
 1) Create a new bot user for it in your Discord account
 2) Invite it to the server of your choosing (get permission first, or make sure it's your own server)
-3) Run the bot from the commandline. (Note, you'll need the python discord API too)
+3) Run the bot from the commandline. (Note, you'll need the python discord API too, and put your token at the bottom of the markov-bot.py file)
 
 # Bot Commands
 @ mention the bot to get a markov response, otherwise make sure to set yourself as an admin, and you can use the following commands:
