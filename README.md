@@ -10,8 +10,8 @@ A Discord bot in Python 3 that forms Markov Chains from what it reads
 # Bot Commands
 @ mention the bot to get a markov response, otherwise make sure to set yourself as an admin, and you can use the following commands:
 
-- `!m.save` - Save what the bot's read from the channels it's in to markov-db
-- `!m.load` - Load the markov-db file into the bot
+- `!m.save` - Save what the bot's read from the channels it's in to `markov-db`
+- `!m.load` - Load the `markov-db` file into the bot
 - `!m.clear` - Clear everything the bot's read
 
 ## Acknowledgements
