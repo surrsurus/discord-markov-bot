@@ -13,3 +13,6 @@ A Discord bot in Python 3 that forms Markov Chains from what it reads
 - `!m.save` - Save what the bot's read from the channels it's in to markov-db
 - `!m.load` - Load the markov-db file into the bot
 - `!m.clear` - Clear everything the bot's read
+
+## Acknowledgements
+Inspired by [this](https://gist.githubusercontent.com/agiliq/131679/raw/33ff96bbb536b71e989276d9f7a728037b124048/gistfile1.py_)
